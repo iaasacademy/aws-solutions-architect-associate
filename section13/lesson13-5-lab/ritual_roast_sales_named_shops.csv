@@ -1,0 +1,701 @@
+ShopID,TownCity,Date,Product,Category,QuantitySold,TotalSales
+Crimson Roast,London,18/07/2025,Butter Croissant,Pastry,177,531
+Crimson Roast,London,18/07/2025,Chocolate Muffin,Pastry,131,393
+Crimson Roast,London,18/07/2025,Almond Danish,Pastry,125,500
+Crimson Roast,London,18/07/2025,Cinnamon Roll,Pastry,62,186
+Crimson Roast,London,18/07/2025,Iced Latte,Beverage,187,748
+Crimson Roast,London,18/07/2025,Cappuccino,Beverage,158,632
+Crimson Roast,London,18/07/2025,Espresso,Beverage,186,558
+Crimson Roast,London,18/07/2025,Cold Brew,Beverage,191,764
+Crimson Roast,London,18/07/2025,Chai Latte,Beverage,111,444
+Crimson Roast,London,18/07/2025,Matcha Frappe,Beverage,162,810
+Crimson Roast,London,17/07/2025,Butter Croissant,Pastry,156,468
+Crimson Roast,London,17/07/2025,Chocolate Muffin,Pastry,64,192
+Crimson Roast,London,17/07/2025,Almond Danish,Pastry,82,328
+Crimson Roast,London,17/07/2025,Cinnamon Roll,Pastry,173,519
+Crimson Roast,London,17/07/2025,Iced Latte,Beverage,69,276
+Crimson Roast,London,17/07/2025,Cappuccino,Beverage,92,368
+Crimson Roast,London,17/07/2025,Espresso,Beverage,116,348
+Crimson Roast,London,17/07/2025,Cold Brew,Beverage,73,292
+Crimson Roast,London,17/07/2025,Chai Latte,Beverage,59,236
+Crimson Roast,London,17/07/2025,Matcha Frappe,Beverage,71,355
+Crimson Roast,London,16/07/2025,Butter Croissant,Pastry,155,465
+Crimson Roast,London,16/07/2025,Chocolate Muffin,Pastry,98,294
+Crimson Roast,London,16/07/2025,Almond Danish,Pastry,118,472
+Crimson Roast,London,16/07/2025,Cinnamon Roll,Pastry,165,495
+Crimson Roast,London,16/07/2025,Iced Latte,Beverage,51,204
+Crimson Roast,London,16/07/2025,Cappuccino,Beverage,71,284
+Crimson Roast,London,16/07/2025,Espresso,Beverage,87,261
+Crimson Roast,London,16/07/2025,Cold Brew,Beverage,66,264
+Crimson Roast,London,16/07/2025,Chai Latte,Beverage,149,596
+Crimson Roast,London,16/07/2025,Matcha Frappe,Beverage,152,760
+Crimson Roast,London,15/07/2025,Butter Croissant,Pastry,156,468
+Crimson Roast,London,15/07/2025,Chocolate Muffin,Pastry,116,348
+Crimson Roast,London,15/07/2025,Almond Danish,Pastry,64,256
+Crimson Roast,London,15/07/2025,Cinnamon Roll,Pastry,82,246
+Crimson Roast,London,15/07/2025,Iced Latte,Beverage,138,552
+Crimson Roast,London,15/07/2025,Cappuccino,Beverage,133,532
+Crimson Roast,London,15/07/2025,Espresso,Beverage,70,210
+Crimson Roast,London,15/07/2025,Cold Brew,Beverage,127,508
+Crimson Roast,London,15/07/2025,Chai Latte,Beverage,142,568
+Crimson Roast,London,15/07/2025,Matcha Frappe,Beverage,192,960
+Crimson Roast,London,14/07/2025,Butter Croissant,Pastry,73,219
+Crimson Roast,London,14/07/2025,Chocolate Muffin,Pastry,86,258
+Crimson Roast,London,14/07/2025,Almond Danish,Pastry,117,468
+Crimson Roast,London,14/07/2025,Cinnamon Roll,Pastry,106,318
+Crimson Roast,London,14/07/2025,Iced Latte,Beverage,150,600
+Crimson Roast,London,14/07/2025,Cappuccino,Beverage,62,248
+Crimson Roast,London,14/07/2025,Espresso,Beverage,150,450
+Crimson Roast,London,14/07/2025,Cold Brew,Beverage,177,708
+Crimson Roast,London,14/07/2025,Chai Latte,Beverage,185,740
+Crimson Roast,London,14/07/2025,Matcha Frappe,Beverage,157,785
+Crimson Roast,London,13/07/2025,Butter Croissant,Pastry,51,153
+Crimson Roast,London,13/07/2025,Chocolate Muffin,Pastry,98,294
+Crimson Roast,London,13/07/2025,Almond Danish,Pastry,56,224
+Crimson Roast,London,13/07/2025,Cinnamon Roll,Pastry,181,543
+Crimson Roast,London,13/07/2025,Iced Latte,Beverage,74,296
+Crimson Roast,London,13/07/2025,Cappuccino,Beverage,74,296
+Crimson Roast,London,13/07/2025,Espresso,Beverage,59,177
+Crimson Roast,London,13/07/2025,Cold Brew,Beverage,108,432
+Crimson Roast,London,13/07/2025,Chai Latte,Beverage,128,512
+Crimson Roast,London,13/07/2025,Matcha Frappe,Beverage,99,495
+Crimson Roast,London,12/07/2025,Butter Croissant,Pastry,106,318
+Crimson Roast,London,12/07/2025,Chocolate Muffin,Pastry,127,381
+Crimson Roast,London,12/07/2025,Almond Danish,Pastry,150,600
+Crimson Roast,London,12/07/2025,Cinnamon Roll,Pastry,183,549
+Crimson Roast,London,12/07/2025,Iced Latte,Beverage,73,292
+Crimson Roast,London,12/07/2025,Cappuccino,Beverage,77,308
+Crimson Roast,London,12/07/2025,Espresso,Beverage,50,150
+Crimson Roast,London,12/07/2025,Cold Brew,Beverage,133,532
+Crimson Roast,London,12/07/2025,Chai Latte,Beverage,96,384
+Crimson Roast,London,12/07/2025,Matcha Frappe,Beverage,69,345
+Velvet Bean,Manchester,18/07/2025,Butter Croissant,Pastry,90,270
+Velvet Bean,Manchester,18/07/2025,Chocolate Muffin,Pastry,177,531
+Velvet Bean,Manchester,18/07/2025,Almond Danish,Pastry,189,756
+Velvet Bean,Manchester,18/07/2025,Cinnamon Roll,Pastry,68,204
+Velvet Bean,Manchester,18/07/2025,Iced Latte,Beverage,182,728
+Velvet Bean,Manchester,18/07/2025,Cappuccino,Beverage,60,240
+Velvet Bean,Manchester,18/07/2025,Espresso,Beverage,82,246
+Velvet Bean,Manchester,18/07/2025,Cold Brew,Beverage,80,320
+Velvet Bean,Manchester,18/07/2025,Chai Latte,Beverage,104,416
+Velvet Bean,Manchester,18/07/2025,Matcha Frappe,Beverage,119,595
+Velvet Bean,Manchester,17/07/2025,Butter Croissant,Pastry,187,561
+Velvet Bean,Manchester,17/07/2025,Chocolate Muffin,Pastry,115,345
+Velvet Bean,Manchester,17/07/2025,Almond Danish,Pastry,135,540
+Velvet Bean,Manchester,17/07/2025,Cinnamon Roll,Pastry,163,489
+Velvet Bean,Manchester,17/07/2025,Iced Latte,Beverage,187,748
+Velvet Bean,Manchester,17/07/2025,Cappuccino,Beverage,120,480
+Velvet Bean,Manchester,17/07/2025,Espresso,Beverage,157,471
+Velvet Bean,Manchester,17/07/2025,Cold Brew,Beverage,108,432
+Velvet Bean,Manchester,17/07/2025,Chai Latte,Beverage,64,256
+Velvet Bean,Manchester,17/07/2025,Matcha Frappe,Beverage,185,925
+Velvet Bean,Manchester,16/07/2025,Butter Croissant,Pastry,189,567
+Velvet Bean,Manchester,16/07/2025,Chocolate Muffin,Pastry,57,171
+Velvet Bean,Manchester,16/07/2025,Almond Danish,Pastry,99,396
+Velvet Bean,Manchester,16/07/2025,Cinnamon Roll,Pastry,64,192
+Velvet Bean,Manchester,16/07/2025,Iced Latte,Beverage,183,732
+Velvet Bean,Manchester,16/07/2025,Cappuccino,Beverage,70,280
+Velvet Bean,Manchester,16/07/2025,Espresso,Beverage,178,534
+Velvet Bean,Manchester,16/07/2025,Cold Brew,Beverage,148,592
+Velvet Bean,Manchester,16/07/2025,Chai Latte,Beverage,124,496
+Velvet Bean,Manchester,16/07/2025,Matcha Frappe,Beverage,114,570
+Velvet Bean,Manchester,15/07/2025,Butter Croissant,Pastry,185,555
+Velvet Bean,Manchester,15/07/2025,Chocolate Muffin,Pastry,132,396
+Velvet Bean,Manchester,15/07/2025,Almond Danish,Pastry,164,656
+Velvet Bean,Manchester,15/07/2025,Cinnamon Roll,Pastry,99,297
+Velvet Bean,Manchester,15/07/2025,Iced Latte,Beverage,151,604
+Velvet Bean,Manchester,15/07/2025,Cappuccino,Beverage,167,668
+Velvet Bean,Manchester,15/07/2025,Espresso,Beverage,198,594
+Velvet Bean,Manchester,15/07/2025,Cold Brew,Beverage,145,580
+Velvet Bean,Manchester,15/07/2025,Chai Latte,Beverage,115,460
+Velvet Bean,Manchester,15/07/2025,Matcha Frappe,Beverage,190,950
+Velvet Bean,Manchester,14/07/2025,Butter Croissant,Pastry,133,399
+Velvet Bean,Manchester,14/07/2025,Chocolate Muffin,Pastry,57,171
+Velvet Bean,Manchester,14/07/2025,Almond Danish,Pastry,181,724
+Velvet Bean,Manchester,14/07/2025,Cinnamon Roll,Pastry,93,279
+Velvet Bean,Manchester,14/07/2025,Iced Latte,Beverage,88,352
+Velvet Bean,Manchester,14/07/2025,Cappuccino,Beverage,164,656
+Velvet Bean,Manchester,14/07/2025,Espresso,Beverage,83,249
+Velvet Bean,Manchester,14/07/2025,Cold Brew,Beverage,51,204
+Velvet Bean,Manchester,14/07/2025,Chai Latte,Beverage,107,428
+Velvet Bean,Manchester,14/07/2025,Matcha Frappe,Beverage,91,455
+Velvet Bean,Manchester,13/07/2025,Butter Croissant,Pastry,77,231
+Velvet Bean,Manchester,13/07/2025,Chocolate Muffin,Pastry,63,189
+Velvet Bean,Manchester,13/07/2025,Almond Danish,Pastry,99,396
+Velvet Bean,Manchester,13/07/2025,Cinnamon Roll,Pastry,150,450
+Velvet Bean,Manchester,13/07/2025,Iced Latte,Beverage,153,612
+Velvet Bean,Manchester,13/07/2025,Cappuccino,Beverage,147,588
+Velvet Bean,Manchester,13/07/2025,Espresso,Beverage,68,204
+Velvet Bean,Manchester,13/07/2025,Cold Brew,Beverage,179,716
+Velvet Bean,Manchester,13/07/2025,Chai Latte,Beverage,173,692
+Velvet Bean,Manchester,13/07/2025,Matcha Frappe,Beverage,132,660
+Velvet Bean,Manchester,12/07/2025,Butter Croissant,Pastry,138,414
+Velvet Bean,Manchester,12/07/2025,Chocolate Muffin,Pastry,50,150
+Velvet Bean,Manchester,12/07/2025,Almond Danish,Pastry,186,744
+Velvet Bean,Manchester,12/07/2025,Cinnamon Roll,Pastry,156,468
+Velvet Bean,Manchester,12/07/2025,Iced Latte,Beverage,165,660
+Velvet Bean,Manchester,12/07/2025,Cappuccino,Beverage,79,316
+Velvet Bean,Manchester,12/07/2025,Espresso,Beverage,114,342
+Velvet Bean,Manchester,12/07/2025,Cold Brew,Beverage,112,448
+Velvet Bean,Manchester,12/07/2025,Chai Latte,Beverage,115,460
+Velvet Bean,Manchester,12/07/2025,Matcha Frappe,Beverage,59,295
+Midnight Brew,Birmingham,18/07/2025,Butter Croissant,Pastry,175,525
+Midnight Brew,Birmingham,18/07/2025,Chocolate Muffin,Pastry,188,564
+Midnight Brew,Birmingham,18/07/2025,Almond Danish,Pastry,176,704
+Midnight Brew,Birmingham,18/07/2025,Cinnamon Roll,Pastry,88,264
+Midnight Brew,Birmingham,18/07/2025,Iced Latte,Beverage,58,232
+Midnight Brew,Birmingham,18/07/2025,Cappuccino,Beverage,84,336
+Midnight Brew,Birmingham,18/07/2025,Espresso,Beverage,111,333
+Midnight Brew,Birmingham,18/07/2025,Cold Brew,Beverage,74,296
+Midnight Brew,Birmingham,18/07/2025,Chai Latte,Beverage,192,768
+Midnight Brew,Birmingham,18/07/2025,Matcha Frappe,Beverage,192,960
+Midnight Brew,Birmingham,17/07/2025,Butter Croissant,Pastry,55,165
+Midnight Brew,Birmingham,17/07/2025,Chocolate Muffin,Pastry,72,216
+Midnight Brew,Birmingham,17/07/2025,Almond Danish,Pastry,160,640
+Midnight Brew,Birmingham,17/07/2025,Cinnamon Roll,Pastry,197,591
+Midnight Brew,Birmingham,17/07/2025,Iced Latte,Beverage,178,712
+Midnight Brew,Birmingham,17/07/2025,Cappuccino,Beverage,61,244
+Midnight Brew,Birmingham,17/07/2025,Espresso,Beverage,192,576
+Midnight Brew,Birmingham,17/07/2025,Cold Brew,Beverage,88,352
+Midnight Brew,Birmingham,17/07/2025,Chai Latte,Beverage,192,768
+Midnight Brew,Birmingham,17/07/2025,Matcha Frappe,Beverage,112,560
+Midnight Brew,Birmingham,16/07/2025,Butter Croissant,Pastry,77,231
+Midnight Brew,Birmingham,16/07/2025,Chocolate Muffin,Pastry,119,357
+Midnight Brew,Birmingham,16/07/2025,Almond Danish,Pastry,153,612
+Midnight Brew,Birmingham,16/07/2025,Cinnamon Roll,Pastry,79,237
+Midnight Brew,Birmingham,16/07/2025,Iced Latte,Beverage,103,412
+Midnight Brew,Birmingham,16/07/2025,Cappuccino,Beverage,53,212
+Midnight Brew,Birmingham,16/07/2025,Espresso,Beverage,101,303
+Midnight Brew,Birmingham,16/07/2025,Cold Brew,Beverage,171,684
+Midnight Brew,Birmingham,16/07/2025,Chai Latte,Beverage,122,488
+Midnight Brew,Birmingham,16/07/2025,Matcha Frappe,Beverage,134,670
+Midnight Brew,Birmingham,15/07/2025,Butter Croissant,Pastry,163,489
+Midnight Brew,Birmingham,15/07/2025,Chocolate Muffin,Pastry,63,189
+Midnight Brew,Birmingham,15/07/2025,Almond Danish,Pastry,174,696
+Midnight Brew,Birmingham,15/07/2025,Cinnamon Roll,Pastry,176,528
+Midnight Brew,Birmingham,15/07/2025,Iced Latte,Beverage,184,736
+Midnight Brew,Birmingham,15/07/2025,Cappuccino,Beverage,153,612
+Midnight Brew,Birmingham,15/07/2025,Espresso,Beverage,75,225
+Midnight Brew,Birmingham,15/07/2025,Cold Brew,Beverage,197,788
+Midnight Brew,Birmingham,15/07/2025,Chai Latte,Beverage,62,248
+Midnight Brew,Birmingham,15/07/2025,Matcha Frappe,Beverage,86,430
+Midnight Brew,Birmingham,14/07/2025,Butter Croissant,Pastry,59,177
+Midnight Brew,Birmingham,14/07/2025,Chocolate Muffin,Pastry,120,360
+Midnight Brew,Birmingham,14/07/2025,Almond Danish,Pastry,101,404
+Midnight Brew,Birmingham,14/07/2025,Cinnamon Roll,Pastry,177,531
+Midnight Brew,Birmingham,14/07/2025,Iced Latte,Beverage,121,484
+Midnight Brew,Birmingham,14/07/2025,Cappuccino,Beverage,152,608
+Midnight Brew,Birmingham,14/07/2025,Espresso,Beverage,148,444
+Midnight Brew,Birmingham,14/07/2025,Cold Brew,Beverage,57,228
+Midnight Brew,Birmingham,14/07/2025,Chai Latte,Beverage,61,244
+Midnight Brew,Birmingham,14/07/2025,Matcha Frappe,Beverage,157,785
+Midnight Brew,Birmingham,13/07/2025,Butter Croissant,Pastry,135,405
+Midnight Brew,Birmingham,13/07/2025,Chocolate Muffin,Pastry,93,279
+Midnight Brew,Birmingham,13/07/2025,Almond Danish,Pastry,64,256
+Midnight Brew,Birmingham,13/07/2025,Cinnamon Roll,Pastry,144,432
+Midnight Brew,Birmingham,13/07/2025,Iced Latte,Beverage,161,644
+Midnight Brew,Birmingham,13/07/2025,Cappuccino,Beverage,64,256
+Midnight Brew,Birmingham,13/07/2025,Espresso,Beverage,55,165
+Midnight Brew,Birmingham,13/07/2025,Cold Brew,Beverage,148,592
+Midnight Brew,Birmingham,13/07/2025,Chai Latte,Beverage,178,712
+Midnight Brew,Birmingham,13/07/2025,Matcha Frappe,Beverage,104,520
+Midnight Brew,Birmingham,12/07/2025,Butter Croissant,Pastry,116,348
+Midnight Brew,Birmingham,12/07/2025,Chocolate Muffin,Pastry,116,348
+Midnight Brew,Birmingham,12/07/2025,Almond Danish,Pastry,65,260
+Midnight Brew,Birmingham,12/07/2025,Cinnamon Roll,Pastry,115,345
+Midnight Brew,Birmingham,12/07/2025,Iced Latte,Beverage,103,412
+Midnight Brew,Birmingham,12/07/2025,Cappuccino,Beverage,50,200
+Midnight Brew,Birmingham,12/07/2025,Espresso,Beverage,175,525
+Midnight Brew,Birmingham,12/07/2025,Cold Brew,Beverage,132,528
+Midnight Brew,Birmingham,12/07/2025,Chai Latte,Beverage,184,736
+Midnight Brew,Birmingham,12/07/2025,Matcha Frappe,Beverage,170,850
+Golden Crema,Leeds,18/07/2025,Butter Croissant,Pastry,118,354
+Golden Crema,Leeds,18/07/2025,Chocolate Muffin,Pastry,198,594
+Golden Crema,Leeds,18/07/2025,Almond Danish,Pastry,110,440
+Golden Crema,Leeds,18/07/2025,Cinnamon Roll,Pastry,151,453
+Golden Crema,Leeds,18/07/2025,Iced Latte,Beverage,64,256
+Golden Crema,Leeds,18/07/2025,Cappuccino,Beverage,88,352
+Golden Crema,Leeds,18/07/2025,Espresso,Beverage,93,279
+Golden Crema,Leeds,18/07/2025,Cold Brew,Beverage,86,344
+Golden Crema,Leeds,18/07/2025,Chai Latte,Beverage,178,712
+Golden Crema,Leeds,18/07/2025,Matcha Frappe,Beverage,118,590
+Golden Crema,Leeds,17/07/2025,Butter Croissant,Pastry,108,324
+Golden Crema,Leeds,17/07/2025,Chocolate Muffin,Pastry,190,570
+Golden Crema,Leeds,17/07/2025,Almond Danish,Pastry,103,412
+Golden Crema,Leeds,17/07/2025,Cinnamon Roll,Pastry,143,429
+Golden Crema,Leeds,17/07/2025,Iced Latte,Beverage,61,244
+Golden Crema,Leeds,17/07/2025,Cappuccino,Beverage,106,424
+Golden Crema,Leeds,17/07/2025,Espresso,Beverage,133,399
+Golden Crema,Leeds,17/07/2025,Cold Brew,Beverage,178,712
+Golden Crema,Leeds,17/07/2025,Chai Latte,Beverage,140,560
+Golden Crema,Leeds,17/07/2025,Matcha Frappe,Beverage,189,945
+Golden Crema,Leeds,16/07/2025,Butter Croissant,Pastry,163,489
+Golden Crema,Leeds,16/07/2025,Chocolate Muffin,Pastry,115,345
+Golden Crema,Leeds,16/07/2025,Almond Danish,Pastry,189,756
+Golden Crema,Leeds,16/07/2025,Cinnamon Roll,Pastry,138,414
+Golden Crema,Leeds,16/07/2025,Iced Latte,Beverage,144,576
+Golden Crema,Leeds,16/07/2025,Cappuccino,Beverage,126,504
+Golden Crema,Leeds,16/07/2025,Espresso,Beverage,94,282
+Golden Crema,Leeds,16/07/2025,Cold Brew,Beverage,118,472
+Golden Crema,Leeds,16/07/2025,Chai Latte,Beverage,65,260
+Golden Crema,Leeds,16/07/2025,Matcha Frappe,Beverage,131,655
+Golden Crema,Leeds,15/07/2025,Butter Croissant,Pastry,177,531
+Golden Crema,Leeds,15/07/2025,Chocolate Muffin,Pastry,181,543
+Golden Crema,Leeds,15/07/2025,Almond Danish,Pastry,67,268
+Golden Crema,Leeds,15/07/2025,Cinnamon Roll,Pastry,164,492
+Golden Crema,Leeds,15/07/2025,Iced Latte,Beverage,70,280
+Golden Crema,Leeds,15/07/2025,Cappuccino,Beverage,160,640
+Golden Crema,Leeds,15/07/2025,Espresso,Beverage,194,582
+Golden Crema,Leeds,15/07/2025,Cold Brew,Beverage,72,288
+Golden Crema,Leeds,15/07/2025,Chai Latte,Beverage,173,692
+Golden Crema,Leeds,15/07/2025,Matcha Frappe,Beverage,119,595
+Golden Crema,Leeds,14/07/2025,Butter Croissant,Pastry,88,264
+Golden Crema,Leeds,14/07/2025,Chocolate Muffin,Pastry,148,444
+Golden Crema,Leeds,14/07/2025,Almond Danish,Pastry,144,576
+Golden Crema,Leeds,14/07/2025,Cinnamon Roll,Pastry,90,270
+Golden Crema,Leeds,14/07/2025,Iced Latte,Beverage,98,392
+Golden Crema,Leeds,14/07/2025,Cappuccino,Beverage,186,744
+Golden Crema,Leeds,14/07/2025,Espresso,Beverage,169,507
+Golden Crema,Leeds,14/07/2025,Cold Brew,Beverage,95,380
+Golden Crema,Leeds,14/07/2025,Chai Latte,Beverage,108,432
+Golden Crema,Leeds,14/07/2025,Matcha Frappe,Beverage,179,895
+Golden Crema,Leeds,13/07/2025,Butter Croissant,Pastry,82,246
+Golden Crema,Leeds,13/07/2025,Chocolate Muffin,Pastry,131,393
+Golden Crema,Leeds,13/07/2025,Almond Danish,Pastry,176,704
+Golden Crema,Leeds,13/07/2025,Cinnamon Roll,Pastry,106,318
+Golden Crema,Leeds,13/07/2025,Iced Latte,Beverage,66,264
+Golden Crema,Leeds,13/07/2025,Cappuccino,Beverage,170,680
+Golden Crema,Leeds,13/07/2025,Espresso,Beverage,106,318
+Golden Crema,Leeds,13/07/2025,Cold Brew,Beverage,78,312
+Golden Crema,Leeds,13/07/2025,Chai Latte,Beverage,114,456
+Golden Crema,Leeds,13/07/2025,Matcha Frappe,Beverage,86,430
+Golden Crema,Leeds,12/07/2025,Butter Croissant,Pastry,103,309
+Golden Crema,Leeds,12/07/2025,Chocolate Muffin,Pastry,66,198
+Golden Crema,Leeds,12/07/2025,Almond Danish,Pastry,95,380
+Golden Crema,Leeds,12/07/2025,Cinnamon Roll,Pastry,71,213
+Golden Crema,Leeds,12/07/2025,Iced Latte,Beverage,108,432
+Golden Crema,Leeds,12/07/2025,Cappuccino,Beverage,63,252
+Golden Crema,Leeds,12/07/2025,Espresso,Beverage,97,291
+Golden Crema,Leeds,12/07/2025,Cold Brew,Beverage,105,420
+Golden Crema,Leeds,12/07/2025,Chai Latte,Beverage,79,316
+Golden Crema,Leeds,12/07/2025,Matcha Frappe,Beverage,160,800
+Amber Grind,Glasgow,18/07/2025,Butter Croissant,Pastry,111,333
+Amber Grind,Glasgow,18/07/2025,Chocolate Muffin,Pastry,134,402
+Amber Grind,Glasgow,18/07/2025,Almond Danish,Pastry,193,772
+Amber Grind,Glasgow,18/07/2025,Cinnamon Roll,Pastry,69,207
+Amber Grind,Glasgow,18/07/2025,Iced Latte,Beverage,195,780
+Amber Grind,Glasgow,18/07/2025,Cappuccino,Beverage,187,748
+Amber Grind,Glasgow,18/07/2025,Espresso,Beverage,53,159
+Amber Grind,Glasgow,18/07/2025,Cold Brew,Beverage,118,472
+Amber Grind,Glasgow,18/07/2025,Chai Latte,Beverage,116,464
+Amber Grind,Glasgow,18/07/2025,Matcha Frappe,Beverage,101,505
+Amber Grind,Glasgow,17/07/2025,Butter Croissant,Pastry,92,276
+Amber Grind,Glasgow,17/07/2025,Chocolate Muffin,Pastry,182,546
+Amber Grind,Glasgow,17/07/2025,Almond Danish,Pastry,158,632
+Amber Grind,Glasgow,17/07/2025,Cinnamon Roll,Pastry,65,195
+Amber Grind,Glasgow,17/07/2025,Iced Latte,Beverage,128,512
+Amber Grind,Glasgow,17/07/2025,Cappuccino,Beverage,128,512
+Amber Grind,Glasgow,17/07/2025,Espresso,Beverage,179,537
+Amber Grind,Glasgow,17/07/2025,Cold Brew,Beverage,148,592
+Amber Grind,Glasgow,17/07/2025,Chai Latte,Beverage,185,740
+Amber Grind,Glasgow,17/07/2025,Matcha Frappe,Beverage,79,395
+Amber Grind,Glasgow,16/07/2025,Butter Croissant,Pastry,192,576
+Amber Grind,Glasgow,16/07/2025,Chocolate Muffin,Pastry,121,363
+Amber Grind,Glasgow,16/07/2025,Almond Danish,Pastry,52,208
+Amber Grind,Glasgow,16/07/2025,Cinnamon Roll,Pastry,132,396
+Amber Grind,Glasgow,16/07/2025,Iced Latte,Beverage,73,292
+Amber Grind,Glasgow,16/07/2025,Cappuccino,Beverage,68,272
+Amber Grind,Glasgow,16/07/2025,Espresso,Beverage,142,426
+Amber Grind,Glasgow,16/07/2025,Cold Brew,Beverage,144,576
+Amber Grind,Glasgow,16/07/2025,Chai Latte,Beverage,168,672
+Amber Grind,Glasgow,16/07/2025,Matcha Frappe,Beverage,56,280
+Amber Grind,Glasgow,15/07/2025,Butter Croissant,Pastry,145,435
+Amber Grind,Glasgow,15/07/2025,Chocolate Muffin,Pastry,126,378
+Amber Grind,Glasgow,15/07/2025,Almond Danish,Pastry,124,496
+Amber Grind,Glasgow,15/07/2025,Cinnamon Roll,Pastry,196,588
+Amber Grind,Glasgow,15/07/2025,Iced Latte,Beverage,77,308
+Amber Grind,Glasgow,15/07/2025,Cappuccino,Beverage,190,760
+Amber Grind,Glasgow,15/07/2025,Espresso,Beverage,168,504
+Amber Grind,Glasgow,15/07/2025,Cold Brew,Beverage,67,268
+Amber Grind,Glasgow,15/07/2025,Chai Latte,Beverage,138,552
+Amber Grind,Glasgow,15/07/2025,Matcha Frappe,Beverage,83,415
+Amber Grind,Glasgow,14/07/2025,Butter Croissant,Pastry,62,186
+Amber Grind,Glasgow,14/07/2025,Chocolate Muffin,Pastry,147,441
+Amber Grind,Glasgow,14/07/2025,Almond Danish,Pastry,59,236
+Amber Grind,Glasgow,14/07/2025,Cinnamon Roll,Pastry,133,399
+Amber Grind,Glasgow,14/07/2025,Iced Latte,Beverage,174,696
+Amber Grind,Glasgow,14/07/2025,Cappuccino,Beverage,141,564
+Amber Grind,Glasgow,14/07/2025,Espresso,Beverage,166,498
+Amber Grind,Glasgow,14/07/2025,Cold Brew,Beverage,155,620
+Amber Grind,Glasgow,14/07/2025,Chai Latte,Beverage,120,480
+Amber Grind,Glasgow,14/07/2025,Matcha Frappe,Beverage,158,790
+Amber Grind,Glasgow,13/07/2025,Butter Croissant,Pastry,91,273
+Amber Grind,Glasgow,13/07/2025,Chocolate Muffin,Pastry,173,519
+Amber Grind,Glasgow,13/07/2025,Almond Danish,Pastry,145,580
+Amber Grind,Glasgow,13/07/2025,Cinnamon Roll,Pastry,195,585
+Amber Grind,Glasgow,13/07/2025,Iced Latte,Beverage,118,472
+Amber Grind,Glasgow,13/07/2025,Cappuccino,Beverage,145,580
+Amber Grind,Glasgow,13/07/2025,Espresso,Beverage,161,483
+Amber Grind,Glasgow,13/07/2025,Cold Brew,Beverage,189,756
+Amber Grind,Glasgow,13/07/2025,Chai Latte,Beverage,149,596
+Amber Grind,Glasgow,13/07/2025,Matcha Frappe,Beverage,84,420
+Amber Grind,Glasgow,12/07/2025,Butter Croissant,Pastry,143,429
+Amber Grind,Glasgow,12/07/2025,Chocolate Muffin,Pastry,164,492
+Amber Grind,Glasgow,12/07/2025,Almond Danish,Pastry,156,624
+Amber Grind,Glasgow,12/07/2025,Cinnamon Roll,Pastry,121,363
+Amber Grind,Glasgow,12/07/2025,Iced Latte,Beverage,54,216
+Amber Grind,Glasgow,12/07/2025,Cappuccino,Beverage,138,552
+Amber Grind,Glasgow,12/07/2025,Espresso,Beverage,160,480
+Amber Grind,Glasgow,12/07/2025,Cold Brew,Beverage,101,404
+Amber Grind,Glasgow,12/07/2025,Chai Latte,Beverage,107,428
+Amber Grind,Glasgow,12/07/2025,Matcha Frappe,Beverage,130,650
+Stormy Espresso,Bristol,18/07/2025,Butter Croissant,Pastry,59,177
+Stormy Espresso,Bristol,18/07/2025,Chocolate Muffin,Pastry,149,447
+Stormy Espresso,Bristol,18/07/2025,Almond Danish,Pastry,189,756
+Stormy Espresso,Bristol,18/07/2025,Cinnamon Roll,Pastry,159,477
+Stormy Espresso,Bristol,18/07/2025,Iced Latte,Beverage,158,632
+Stormy Espresso,Bristol,18/07/2025,Cappuccino,Beverage,67,268
+Stormy Espresso,Bristol,18/07/2025,Espresso,Beverage,157,471
+Stormy Espresso,Bristol,18/07/2025,Cold Brew,Beverage,126,504
+Stormy Espresso,Bristol,18/07/2025,Chai Latte,Beverage,94,376
+Stormy Espresso,Bristol,18/07/2025,Matcha Frappe,Beverage,158,790
+Stormy Espresso,Bristol,17/07/2025,Butter Croissant,Pastry,76,228
+Stormy Espresso,Bristol,17/07/2025,Chocolate Muffin,Pastry,121,363
+Stormy Espresso,Bristol,17/07/2025,Almond Danish,Pastry,123,492
+Stormy Espresso,Bristol,17/07/2025,Cinnamon Roll,Pastry,141,423
+Stormy Espresso,Bristol,17/07/2025,Iced Latte,Beverage,103,412
+Stormy Espresso,Bristol,17/07/2025,Cappuccino,Beverage,194,776
+Stormy Espresso,Bristol,17/07/2025,Espresso,Beverage,120,360
+Stormy Espresso,Bristol,17/07/2025,Cold Brew,Beverage,69,276
+Stormy Espresso,Bristol,17/07/2025,Chai Latte,Beverage,71,284
+Stormy Espresso,Bristol,17/07/2025,Matcha Frappe,Beverage,155,775
+Stormy Espresso,Bristol,16/07/2025,Butter Croissant,Pastry,116,348
+Stormy Espresso,Bristol,16/07/2025,Chocolate Muffin,Pastry,75,225
+Stormy Espresso,Bristol,16/07/2025,Almond Danish,Pastry,154,616
+Stormy Espresso,Bristol,16/07/2025,Cinnamon Roll,Pastry,101,303
+Stormy Espresso,Bristol,16/07/2025,Iced Latte,Beverage,61,244
+Stormy Espresso,Bristol,16/07/2025,Cappuccino,Beverage,61,244
+Stormy Espresso,Bristol,16/07/2025,Espresso,Beverage,181,543
+Stormy Espresso,Bristol,16/07/2025,Cold Brew,Beverage,81,324
+Stormy Espresso,Bristol,16/07/2025,Chai Latte,Beverage,98,392
+Stormy Espresso,Bristol,16/07/2025,Matcha Frappe,Beverage,66,330
+Stormy Espresso,Bristol,15/07/2025,Butter Croissant,Pastry,52,156
+Stormy Espresso,Bristol,15/07/2025,Chocolate Muffin,Pastry,188,564
+Stormy Espresso,Bristol,15/07/2025,Almond Danish,Pastry,73,292
+Stormy Espresso,Bristol,15/07/2025,Cinnamon Roll,Pastry,50,150
+Stormy Espresso,Bristol,15/07/2025,Iced Latte,Beverage,108,432
+Stormy Espresso,Bristol,15/07/2025,Cappuccino,Beverage,85,340
+Stormy Espresso,Bristol,15/07/2025,Espresso,Beverage,125,375
+Stormy Espresso,Bristol,15/07/2025,Cold Brew,Beverage,128,512
+Stormy Espresso,Bristol,15/07/2025,Chai Latte,Beverage,150,600
+Stormy Espresso,Bristol,15/07/2025,Matcha Frappe,Beverage,158,790
+Stormy Espresso,Bristol,14/07/2025,Butter Croissant,Pastry,175,525
+Stormy Espresso,Bristol,14/07/2025,Chocolate Muffin,Pastry,174,522
+Stormy Espresso,Bristol,14/07/2025,Almond Danish,Pastry,97,388
+Stormy Espresso,Bristol,14/07/2025,Cinnamon Roll,Pastry,136,408
+Stormy Espresso,Bristol,14/07/2025,Iced Latte,Beverage,50,200
+Stormy Espresso,Bristol,14/07/2025,Cappuccino,Beverage,102,408
+Stormy Espresso,Bristol,14/07/2025,Espresso,Beverage,59,177
+Stormy Espresso,Bristol,14/07/2025,Cold Brew,Beverage,54,216
+Stormy Espresso,Bristol,14/07/2025,Chai Latte,Beverage,69,276
+Stormy Espresso,Bristol,14/07/2025,Matcha Frappe,Beverage,72,360
+Stormy Espresso,Bristol,13/07/2025,Butter Croissant,Pastry,152,456
+Stormy Espresso,Bristol,13/07/2025,Chocolate Muffin,Pastry,118,354
+Stormy Espresso,Bristol,13/07/2025,Almond Danish,Pastry,121,484
+Stormy Espresso,Bristol,13/07/2025,Cinnamon Roll,Pastry,51,153
+Stormy Espresso,Bristol,13/07/2025,Iced Latte,Beverage,179,716
+Stormy Espresso,Bristol,13/07/2025,Cappuccino,Beverage,132,528
+Stormy Espresso,Bristol,13/07/2025,Espresso,Beverage,98,294
+Stormy Espresso,Bristol,13/07/2025,Cold Brew,Beverage,88,352
+Stormy Espresso,Bristol,13/07/2025,Chai Latte,Beverage,174,696
+Stormy Espresso,Bristol,13/07/2025,Matcha Frappe,Beverage,161,805
+Stormy Espresso,Bristol,12/07/2025,Butter Croissant,Pastry,185,555
+Stormy Espresso,Bristol,12/07/2025,Chocolate Muffin,Pastry,90,270
+Stormy Espresso,Bristol,12/07/2025,Almond Danish,Pastry,145,580
+Stormy Espresso,Bristol,12/07/2025,Cinnamon Roll,Pastry,169,507
+Stormy Espresso,Bristol,12/07/2025,Iced Latte,Beverage,200,800
+Stormy Espresso,Bristol,12/07/2025,Cappuccino,Beverage,158,632
+Stormy Espresso,Bristol,12/07/2025,Espresso,Beverage,157,471
+Stormy Espresso,Bristol,12/07/2025,Cold Brew,Beverage,143,572
+Stormy Espresso,Bristol,12/07/2025,Chai Latte,Beverage,175,700
+Stormy Espresso,Bristol,12/07/2025,Matcha Frappe,Beverage,173,865
+Hazel Drip,Liverpool,18/07/2025,Butter Croissant,Pastry,132,396
+Hazel Drip,Liverpool,18/07/2025,Chocolate Muffin,Pastry,110,330
+Hazel Drip,Liverpool,18/07/2025,Almond Danish,Pastry,73,292
+Hazel Drip,Liverpool,18/07/2025,Cinnamon Roll,Pastry,194,582
+Hazel Drip,Liverpool,18/07/2025,Iced Latte,Beverage,118,472
+Hazel Drip,Liverpool,18/07/2025,Cappuccino,Beverage,88,352
+Hazel Drip,Liverpool,18/07/2025,Espresso,Beverage,79,237
+Hazel Drip,Liverpool,18/07/2025,Cold Brew,Beverage,68,272
+Hazel Drip,Liverpool,18/07/2025,Chai Latte,Beverage,96,384
+Hazel Drip,Liverpool,18/07/2025,Matcha Frappe,Beverage,164,820
+Hazel Drip,Liverpool,17/07/2025,Butter Croissant,Pastry,191,573
+Hazel Drip,Liverpool,17/07/2025,Chocolate Muffin,Pastry,96,288
+Hazel Drip,Liverpool,17/07/2025,Almond Danish,Pastry,83,332
+Hazel Drip,Liverpool,17/07/2025,Cinnamon Roll,Pastry,109,327
+Hazel Drip,Liverpool,17/07/2025,Iced Latte,Beverage,142,568
+Hazel Drip,Liverpool,17/07/2025,Cappuccino,Beverage,50,200
+Hazel Drip,Liverpool,17/07/2025,Espresso,Beverage,62,186
+Hazel Drip,Liverpool,17/07/2025,Cold Brew,Beverage,106,424
+Hazel Drip,Liverpool,17/07/2025,Chai Latte,Beverage,144,576
+Hazel Drip,Liverpool,17/07/2025,Matcha Frappe,Beverage,85,425
+Hazel Drip,Liverpool,16/07/2025,Butter Croissant,Pastry,137,411
+Hazel Drip,Liverpool,16/07/2025,Chocolate Muffin,Pastry,136,408
+Hazel Drip,Liverpool,16/07/2025,Almond Danish,Pastry,173,692
+Hazel Drip,Liverpool,16/07/2025,Cinnamon Roll,Pastry,62,186
+Hazel Drip,Liverpool,16/07/2025,Iced Latte,Beverage,172,688
+Hazel Drip,Liverpool,16/07/2025,Cappuccino,Beverage,143,572
+Hazel Drip,Liverpool,16/07/2025,Espresso,Beverage,155,465
+Hazel Drip,Liverpool,16/07/2025,Cold Brew,Beverage,158,632
+Hazel Drip,Liverpool,16/07/2025,Chai Latte,Beverage,68,272
+Hazel Drip,Liverpool,16/07/2025,Matcha Frappe,Beverage,83,415
+Hazel Drip,Liverpool,15/07/2025,Butter Croissant,Pastry,159,477
+Hazel Drip,Liverpool,15/07/2025,Chocolate Muffin,Pastry,137,411
+Hazel Drip,Liverpool,15/07/2025,Almond Danish,Pastry,92,368
+Hazel Drip,Liverpool,15/07/2025,Cinnamon Roll,Pastry,53,159
+Hazel Drip,Liverpool,15/07/2025,Iced Latte,Beverage,99,396
+Hazel Drip,Liverpool,15/07/2025,Cappuccino,Beverage,115,460
+Hazel Drip,Liverpool,15/07/2025,Espresso,Beverage,76,228
+Hazel Drip,Liverpool,15/07/2025,Cold Brew,Beverage,144,576
+Hazel Drip,Liverpool,15/07/2025,Chai Latte,Beverage,74,296
+Hazel Drip,Liverpool,15/07/2025,Matcha Frappe,Beverage,105,525
+Hazel Drip,Liverpool,14/07/2025,Butter Croissant,Pastry,82,246
+Hazel Drip,Liverpool,14/07/2025,Chocolate Muffin,Pastry,88,264
+Hazel Drip,Liverpool,14/07/2025,Almond Danish,Pastry,106,424
+Hazel Drip,Liverpool,14/07/2025,Cinnamon Roll,Pastry,62,186
+Hazel Drip,Liverpool,14/07/2025,Iced Latte,Beverage,129,516
+Hazel Drip,Liverpool,14/07/2025,Cappuccino,Beverage,63,252
+Hazel Drip,Liverpool,14/07/2025,Espresso,Beverage,165,495
+Hazel Drip,Liverpool,14/07/2025,Cold Brew,Beverage,91,364
+Hazel Drip,Liverpool,14/07/2025,Chai Latte,Beverage,166,664
+Hazel Drip,Liverpool,14/07/2025,Matcha Frappe,Beverage,52,260
+Hazel Drip,Liverpool,13/07/2025,Butter Croissant,Pastry,170,510
+Hazel Drip,Liverpool,13/07/2025,Chocolate Muffin,Pastry,92,276
+Hazel Drip,Liverpool,13/07/2025,Almond Danish,Pastry,120,480
+Hazel Drip,Liverpool,13/07/2025,Cinnamon Roll,Pastry,92,276
+Hazel Drip,Liverpool,13/07/2025,Iced Latte,Beverage,97,388
+Hazel Drip,Liverpool,13/07/2025,Cappuccino,Beverage,182,728
+Hazel Drip,Liverpool,13/07/2025,Espresso,Beverage,76,228
+Hazel Drip,Liverpool,13/07/2025,Cold Brew,Beverage,136,544
+Hazel Drip,Liverpool,13/07/2025,Chai Latte,Beverage,91,364
+Hazel Drip,Liverpool,13/07/2025,Matcha Frappe,Beverage,125,625
+Hazel Drip,Liverpool,12/07/2025,Butter Croissant,Pastry,84,252
+Hazel Drip,Liverpool,12/07/2025,Chocolate Muffin,Pastry,200,600
+Hazel Drip,Liverpool,12/07/2025,Almond Danish,Pastry,152,608
+Hazel Drip,Liverpool,12/07/2025,Cinnamon Roll,Pastry,160,480
+Hazel Drip,Liverpool,12/07/2025,Iced Latte,Beverage,197,788
+Hazel Drip,Liverpool,12/07/2025,Cappuccino,Beverage,183,732
+Hazel Drip,Liverpool,12/07/2025,Espresso,Beverage,96,288
+Hazel Drip,Liverpool,12/07/2025,Cold Brew,Beverage,105,420
+Hazel Drip,Liverpool,12/07/2025,Chai Latte,Beverage,122,488
+Hazel Drip,Liverpool,12/07/2025,Matcha Frappe,Beverage,138,690
+Cocoa Infuse,Edinburgh,18/07/2025,Butter Croissant,Pastry,114,342
+Cocoa Infuse,Edinburgh,18/07/2025,Chocolate Muffin,Pastry,175,525
+Cocoa Infuse,Edinburgh,18/07/2025,Almond Danish,Pastry,190,760
+Cocoa Infuse,Edinburgh,18/07/2025,Cinnamon Roll,Pastry,172,516
+Cocoa Infuse,Edinburgh,18/07/2025,Iced Latte,Beverage,125,500
+Cocoa Infuse,Edinburgh,18/07/2025,Cappuccino,Beverage,111,444
+Cocoa Infuse,Edinburgh,18/07/2025,Espresso,Beverage,198,594
+Cocoa Infuse,Edinburgh,18/07/2025,Cold Brew,Beverage,186,744
+Cocoa Infuse,Edinburgh,18/07/2025,Chai Latte,Beverage,72,288
+Cocoa Infuse,Edinburgh,18/07/2025,Matcha Frappe,Beverage,147,735
+Cocoa Infuse,Edinburgh,17/07/2025,Butter Croissant,Pastry,66,198
+Cocoa Infuse,Edinburgh,17/07/2025,Chocolate Muffin,Pastry,92,276
+Cocoa Infuse,Edinburgh,17/07/2025,Almond Danish,Pastry,193,772
+Cocoa Infuse,Edinburgh,17/07/2025,Cinnamon Roll,Pastry,186,558
+Cocoa Infuse,Edinburgh,17/07/2025,Iced Latte,Beverage,169,676
+Cocoa Infuse,Edinburgh,17/07/2025,Cappuccino,Beverage,193,772
+Cocoa Infuse,Edinburgh,17/07/2025,Espresso,Beverage,138,414
+Cocoa Infuse,Edinburgh,17/07/2025,Cold Brew,Beverage,197,788
+Cocoa Infuse,Edinburgh,17/07/2025,Chai Latte,Beverage,105,420
+Cocoa Infuse,Edinburgh,17/07/2025,Matcha Frappe,Beverage,172,860
+Cocoa Infuse,Edinburgh,16/07/2025,Butter Croissant,Pastry,68,204
+Cocoa Infuse,Edinburgh,16/07/2025,Chocolate Muffin,Pastry,153,459
+Cocoa Infuse,Edinburgh,16/07/2025,Almond Danish,Pastry,155,620
+Cocoa Infuse,Edinburgh,16/07/2025,Cinnamon Roll,Pastry,117,351
+Cocoa Infuse,Edinburgh,16/07/2025,Iced Latte,Beverage,172,688
+Cocoa Infuse,Edinburgh,16/07/2025,Cappuccino,Beverage,158,632
+Cocoa Infuse,Edinburgh,16/07/2025,Espresso,Beverage,79,237
+Cocoa Infuse,Edinburgh,16/07/2025,Cold Brew,Beverage,105,420
+Cocoa Infuse,Edinburgh,16/07/2025,Chai Latte,Beverage,182,728
+Cocoa Infuse,Edinburgh,16/07/2025,Matcha Frappe,Beverage,138,690
+Cocoa Infuse,Edinburgh,15/07/2025,Butter Croissant,Pastry,146,438
+Cocoa Infuse,Edinburgh,15/07/2025,Chocolate Muffin,Pastry,167,501
+Cocoa Infuse,Edinburgh,15/07/2025,Almond Danish,Pastry,199,796
+Cocoa Infuse,Edinburgh,15/07/2025,Cinnamon Roll,Pastry,86,258
+Cocoa Infuse,Edinburgh,15/07/2025,Iced Latte,Beverage,127,508
+Cocoa Infuse,Edinburgh,15/07/2025,Cappuccino,Beverage,161,644
+Cocoa Infuse,Edinburgh,15/07/2025,Espresso,Beverage,88,264
+Cocoa Infuse,Edinburgh,15/07/2025,Cold Brew,Beverage,79,316
+Cocoa Infuse,Edinburgh,15/07/2025,Chai Latte,Beverage,111,444
+Cocoa Infuse,Edinburgh,15/07/2025,Matcha Frappe,Beverage,133,665
+Cocoa Infuse,Edinburgh,14/07/2025,Butter Croissant,Pastry,117,351
+Cocoa Infuse,Edinburgh,14/07/2025,Chocolate Muffin,Pastry,70,210
+Cocoa Infuse,Edinburgh,14/07/2025,Almond Danish,Pastry,95,380
+Cocoa Infuse,Edinburgh,14/07/2025,Cinnamon Roll,Pastry,104,312
+Cocoa Infuse,Edinburgh,14/07/2025,Iced Latte,Beverage,62,248
+Cocoa Infuse,Edinburgh,14/07/2025,Cappuccino,Beverage,118,472
+Cocoa Infuse,Edinburgh,14/07/2025,Espresso,Beverage,77,231
+Cocoa Infuse,Edinburgh,14/07/2025,Cold Brew,Beverage,173,692
+Cocoa Infuse,Edinburgh,14/07/2025,Chai Latte,Beverage,79,316
+Cocoa Infuse,Edinburgh,14/07/2025,Matcha Frappe,Beverage,67,335
+Cocoa Infuse,Edinburgh,13/07/2025,Butter Croissant,Pastry,111,333
+Cocoa Infuse,Edinburgh,13/07/2025,Chocolate Muffin,Pastry,170,510
+Cocoa Infuse,Edinburgh,13/07/2025,Almond Danish,Pastry,148,592
+Cocoa Infuse,Edinburgh,13/07/2025,Cinnamon Roll,Pastry,109,327
+Cocoa Infuse,Edinburgh,13/07/2025,Iced Latte,Beverage,180,720
+Cocoa Infuse,Edinburgh,13/07/2025,Cappuccino,Beverage,61,244
+Cocoa Infuse,Edinburgh,13/07/2025,Espresso,Beverage,96,288
+Cocoa Infuse,Edinburgh,13/07/2025,Cold Brew,Beverage,69,276
+Cocoa Infuse,Edinburgh,13/07/2025,Chai Latte,Beverage,61,244
+Cocoa Infuse,Edinburgh,13/07/2025,Matcha Frappe,Beverage,63,315
+Cocoa Infuse,Edinburgh,12/07/2025,Butter Croissant,Pastry,123,369
+Cocoa Infuse,Edinburgh,12/07/2025,Chocolate Muffin,Pastry,194,582
+Cocoa Infuse,Edinburgh,12/07/2025,Almond Danish,Pastry,92,368
+Cocoa Infuse,Edinburgh,12/07/2025,Cinnamon Roll,Pastry,82,246
+Cocoa Infuse,Edinburgh,12/07/2025,Iced Latte,Beverage,98,392
+Cocoa Infuse,Edinburgh,12/07/2025,Cappuccino,Beverage,182,728
+Cocoa Infuse,Edinburgh,12/07/2025,Espresso,Beverage,58,174
+Cocoa Infuse,Edinburgh,12/07/2025,Cold Brew,Beverage,185,740
+Cocoa Infuse,Edinburgh,12/07/2025,Chai Latte,Beverage,193,772
+Cocoa Infuse,Edinburgh,12/07/2025,Matcha Frappe,Beverage,147,735
+Maple Roast,Nottingham,18/07/2025,Butter Croissant,Pastry,171,513
+Maple Roast,Nottingham,18/07/2025,Chocolate Muffin,Pastry,170,510
+Maple Roast,Nottingham,18/07/2025,Almond Danish,Pastry,135,540
+Maple Roast,Nottingham,18/07/2025,Cinnamon Roll,Pastry,124,372
+Maple Roast,Nottingham,18/07/2025,Iced Latte,Beverage,96,384
+Maple Roast,Nottingham,18/07/2025,Cappuccino,Beverage,170,680
+Maple Roast,Nottingham,18/07/2025,Espresso,Beverage,185,555
+Maple Roast,Nottingham,18/07/2025,Cold Brew,Beverage,107,428
+Maple Roast,Nottingham,18/07/2025,Chai Latte,Beverage,167,668
+Maple Roast,Nottingham,18/07/2025,Matcha Frappe,Beverage,113,565
+Maple Roast,Nottingham,17/07/2025,Butter Croissant,Pastry,75,225
+Maple Roast,Nottingham,17/07/2025,Chocolate Muffin,Pastry,149,447
+Maple Roast,Nottingham,17/07/2025,Almond Danish,Pastry,122,488
+Maple Roast,Nottingham,17/07/2025,Cinnamon Roll,Pastry,94,282
+Maple Roast,Nottingham,17/07/2025,Iced Latte,Beverage,134,536
+Maple Roast,Nottingham,17/07/2025,Cappuccino,Beverage,177,708
+Maple Roast,Nottingham,17/07/2025,Espresso,Beverage,164,492
+Maple Roast,Nottingham,17/07/2025,Cold Brew,Beverage,139,556
+Maple Roast,Nottingham,17/07/2025,Chai Latte,Beverage,139,556
+Maple Roast,Nottingham,17/07/2025,Matcha Frappe,Beverage,186,930
+Maple Roast,Nottingham,16/07/2025,Butter Croissant,Pastry,88,264
+Maple Roast,Nottingham,16/07/2025,Chocolate Muffin,Pastry,112,336
+Maple Roast,Nottingham,16/07/2025,Almond Danish,Pastry,168,672
+Maple Roast,Nottingham,16/07/2025,Cinnamon Roll,Pastry,69,207
+Maple Roast,Nottingham,16/07/2025,Iced Latte,Beverage,109,436
+Maple Roast,Nottingham,16/07/2025,Cappuccino,Beverage,191,764
+Maple Roast,Nottingham,16/07/2025,Espresso,Beverage,149,447
+Maple Roast,Nottingham,16/07/2025,Cold Brew,Beverage,114,456
+Maple Roast,Nottingham,16/07/2025,Chai Latte,Beverage,91,364
+Maple Roast,Nottingham,16/07/2025,Matcha Frappe,Beverage,57,285
+Maple Roast,Nottingham,15/07/2025,Butter Croissant,Pastry,107,321
+Maple Roast,Nottingham,15/07/2025,Chocolate Muffin,Pastry,55,165
+Maple Roast,Nottingham,15/07/2025,Almond Danish,Pastry,102,408
+Maple Roast,Nottingham,15/07/2025,Cinnamon Roll,Pastry,170,510
+Maple Roast,Nottingham,15/07/2025,Iced Latte,Beverage,115,460
+Maple Roast,Nottingham,15/07/2025,Cappuccino,Beverage,154,616
+Maple Roast,Nottingham,15/07/2025,Espresso,Beverage,168,504
+Maple Roast,Nottingham,15/07/2025,Cold Brew,Beverage,183,732
+Maple Roast,Nottingham,15/07/2025,Chai Latte,Beverage,118,472
+Maple Roast,Nottingham,15/07/2025,Matcha Frappe,Beverage,81,405
+Maple Roast,Nottingham,14/07/2025,Butter Croissant,Pastry,130,390
+Maple Roast,Nottingham,14/07/2025,Chocolate Muffin,Pastry,67,201
+Maple Roast,Nottingham,14/07/2025,Almond Danish,Pastry,163,652
+Maple Roast,Nottingham,14/07/2025,Cinnamon Roll,Pastry,181,543
+Maple Roast,Nottingham,14/07/2025,Iced Latte,Beverage,93,372
+Maple Roast,Nottingham,14/07/2025,Cappuccino,Beverage,200,800
+Maple Roast,Nottingham,14/07/2025,Espresso,Beverage,156,468
+Maple Roast,Nottingham,14/07/2025,Cold Brew,Beverage,122,488
+Maple Roast,Nottingham,14/07/2025,Chai Latte,Beverage,50,200
+Maple Roast,Nottingham,14/07/2025,Matcha Frappe,Beverage,176,880
+Maple Roast,Nottingham,13/07/2025,Butter Croissant,Pastry,77,231
+Maple Roast,Nottingham,13/07/2025,Chocolate Muffin,Pastry,188,564
+Maple Roast,Nottingham,13/07/2025,Almond Danish,Pastry,147,588
+Maple Roast,Nottingham,13/07/2025,Cinnamon Roll,Pastry,183,549
+Maple Roast,Nottingham,13/07/2025,Iced Latte,Beverage,114,456
+Maple Roast,Nottingham,13/07/2025,Cappuccino,Beverage,196,784
+Maple Roast,Nottingham,13/07/2025,Espresso,Beverage,125,375
+Maple Roast,Nottingham,13/07/2025,Cold Brew,Beverage,150,600
+Maple Roast,Nottingham,13/07/2025,Chai Latte,Beverage,71,284
+Maple Roast,Nottingham,13/07/2025,Matcha Frappe,Beverage,152,760
+Maple Roast,Nottingham,12/07/2025,Butter Croissant,Pastry,135,405
+Maple Roast,Nottingham,12/07/2025,Chocolate Muffin,Pastry,60,180
+Maple Roast,Nottingham,12/07/2025,Almond Danish,Pastry,57,228
+Maple Roast,Nottingham,12/07/2025,Cinnamon Roll,Pastry,51,153
+Maple Roast,Nottingham,12/07/2025,Iced Latte,Beverage,131,524
+Maple Roast,Nottingham,12/07/2025,Cappuccino,Beverage,135,540
+Maple Roast,Nottingham,12/07/2025,Espresso,Beverage,61,183
+Maple Roast,Nottingham,12/07/2025,Cold Brew,Beverage,103,412
+Maple Roast,Nottingham,12/07/2025,Chai Latte,Beverage,130,520
+Maple Roast,Nottingham,12/07/2025,Matcha Frappe,Beverage,171,855
+Silken Arabica,Cardiff,18/07/2025,Butter Croissant,Pastry,116,348
+Silken Arabica,Cardiff,18/07/2025,Chocolate Muffin,Pastry,54,162
+Silken Arabica,Cardiff,18/07/2025,Almond Danish,Pastry,199,796
+Silken Arabica,Cardiff,18/07/2025,Cinnamon Roll,Pastry,147,441
+Silken Arabica,Cardiff,18/07/2025,Iced Latte,Beverage,73,292
+Silken Arabica,Cardiff,18/07/2025,Cappuccino,Beverage,89,356
+Silken Arabica,Cardiff,18/07/2025,Espresso,Beverage,131,393
+Silken Arabica,Cardiff,18/07/2025,Cold Brew,Beverage,171,684
+Silken Arabica,Cardiff,18/07/2025,Chai Latte,Beverage,121,484
+Silken Arabica,Cardiff,18/07/2025,Matcha Frappe,Beverage,189,945
+Silken Arabica,Cardiff,17/07/2025,Butter Croissant,Pastry,178,534
+Silken Arabica,Cardiff,17/07/2025,Chocolate Muffin,Pastry,59,177
+Silken Arabica,Cardiff,17/07/2025,Almond Danish,Pastry,198,792
+Silken Arabica,Cardiff,17/07/2025,Cinnamon Roll,Pastry,183,549
+Silken Arabica,Cardiff,17/07/2025,Iced Latte,Beverage,157,628
+Silken Arabica,Cardiff,17/07/2025,Cappuccino,Beverage,67,268
+Silken Arabica,Cardiff,17/07/2025,Espresso,Beverage,107,321
+Silken Arabica,Cardiff,17/07/2025,Cold Brew,Beverage,73,292
+Silken Arabica,Cardiff,17/07/2025,Chai Latte,Beverage,191,764
+Silken Arabica,Cardiff,17/07/2025,Matcha Frappe,Beverage,199,995
+Silken Arabica,Cardiff,16/07/2025,Butter Croissant,Pastry,82,246
+Silken Arabica,Cardiff,16/07/2025,Chocolate Muffin,Pastry,92,276
+Silken Arabica,Cardiff,16/07/2025,Almond Danish,Pastry,84,336
+Silken Arabica,Cardiff,16/07/2025,Cinnamon Roll,Pastry,109,327
+Silken Arabica,Cardiff,16/07/2025,Iced Latte,Beverage,103,412
+Silken Arabica,Cardiff,16/07/2025,Cappuccino,Beverage,135,540
+Silken Arabica,Cardiff,16/07/2025,Espresso,Beverage,190,570
+Silken Arabica,Cardiff,16/07/2025,Cold Brew,Beverage,147,588
+Silken Arabica,Cardiff,16/07/2025,Chai Latte,Beverage,96,384
+Silken Arabica,Cardiff,16/07/2025,Matcha Frappe,Beverage,93,465
+Silken Arabica,Cardiff,15/07/2025,Butter Croissant,Pastry,135,405
+Silken Arabica,Cardiff,15/07/2025,Chocolate Muffin,Pastry,127,381
+Silken Arabica,Cardiff,15/07/2025,Almond Danish,Pastry,194,776
+Silken Arabica,Cardiff,15/07/2025,Cinnamon Roll,Pastry,51,153
+Silken Arabica,Cardiff,15/07/2025,Iced Latte,Beverage,59,236
+Silken Arabica,Cardiff,15/07/2025,Cappuccino,Beverage,70,280
+Silken Arabica,Cardiff,15/07/2025,Espresso,Beverage,58,174
+Silken Arabica,Cardiff,15/07/2025,Cold Brew,Beverage,77,308
+Silken Arabica,Cardiff,15/07/2025,Chai Latte,Beverage,172,688
+Silken Arabica,Cardiff,15/07/2025,Matcha Frappe,Beverage,173,865
+Silken Arabica,Cardiff,14/07/2025,Butter Croissant,Pastry,193,579
+Silken Arabica,Cardiff,14/07/2025,Chocolate Muffin,Pastry,106,318
+Silken Arabica,Cardiff,14/07/2025,Almond Danish,Pastry,192,768
+Silken Arabica,Cardiff,14/07/2025,Cinnamon Roll,Pastry,142,426
+Silken Arabica,Cardiff,14/07/2025,Iced Latte,Beverage,105,420
+Silken Arabica,Cardiff,14/07/2025,Cappuccino,Beverage,92,368
+Silken Arabica,Cardiff,14/07/2025,Espresso,Beverage,86,258
+Silken Arabica,Cardiff,14/07/2025,Cold Brew,Beverage,164,656
+Silken Arabica,Cardiff,14/07/2025,Chai Latte,Beverage,79,316
+Silken Arabica,Cardiff,14/07/2025,Matcha Frappe,Beverage,65,325
+Silken Arabica,Cardiff,13/07/2025,Butter Croissant,Pastry,195,585
+Silken Arabica,Cardiff,13/07/2025,Chocolate Muffin,Pastry,163,489
+Silken Arabica,Cardiff,13/07/2025,Almond Danish,Pastry,79,316
+Silken Arabica,Cardiff,13/07/2025,Cinnamon Roll,Pastry,112,336
+Silken Arabica,Cardiff,13/07/2025,Iced Latte,Beverage,155,620
+Silken Arabica,Cardiff,13/07/2025,Cappuccino,Beverage,125,500
+Silken Arabica,Cardiff,13/07/2025,Espresso,Beverage,132,396
+Silken Arabica,Cardiff,13/07/2025,Cold Brew,Beverage,198,792
+Silken Arabica,Cardiff,13/07/2025,Chai Latte,Beverage,105,420
+Silken Arabica,Cardiff,13/07/2025,Matcha Frappe,Beverage,135,675
+Silken Arabica,Cardiff,12/07/2025,Butter Croissant,Pastry,60,180
+Silken Arabica,Cardiff,12/07/2025,Chocolate Muffin,Pastry,169,507
+Silken Arabica,Cardiff,12/07/2025,Almond Danish,Pastry,118,472
+Silken Arabica,Cardiff,12/07/2025,Cinnamon Roll,Pastry,67,201
+Silken Arabica,Cardiff,12/07/2025,Iced Latte,Beverage,185,740
+Silken Arabica,Cardiff,12/07/2025,Cappuccino,Beverage,192,768
+Silken Arabica,Cardiff,12/07/2025,Espresso,Beverage,79,237
+Silken Arabica,Cardiff,12/07/2025,Cold Brew,Beverage,86,344
+Silken Arabica,Cardiff,12/07/2025,Chai Latte,Beverage,125,500
+Silken Arabica,Cardiff,12/07/2025,Matcha Frappe,Beverage,98,490
