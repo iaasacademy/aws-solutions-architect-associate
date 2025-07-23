@@ -1,0 +1,31 @@
+{
+    "Version":"2012-10-17",
+    "Id":"",
+    "Statement":[
+       {
+          "Sid":"Set-permissions-for-objects",
+          "Effect":"Allow",
+          "Principal":{
+             "AWS":"[ARN OF IAM ROLE OF SOURCE BUCKET]"
+          },
+          "Action":["s3:ReplicateObject", "s3:ReplicateDelete"],
+          "Resource":"[ARN OF DESTINATION BUCKET]/*"
+       },
+       {
+          "Sid":"Set permissions on bucket",
+          "Effect":"Allow",
+          "Principal":{
+             "AWS":"[ARN OF IAM ROLE OF SOURCE BUCKET]"
+          },
+          "Action":["s3:GetBucketVersioning", "s3:PutBucketVersioning"],
+          "Resource":"[ARN OF DESTINATION BUCKET]"
+       },
+       {
+        "Sid":"1",
+        "Effect":"Allow",
+        "Principal":{"AWS":"905418297138"},
+        "Action":["s3:ObjectOwnerOverrideToBucketOwner"],
+        "Resource":"[ARN OF DESTINATION BUCKET]/*"
+        }
+    ]
+ }

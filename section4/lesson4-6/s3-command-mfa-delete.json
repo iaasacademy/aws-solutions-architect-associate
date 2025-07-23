@@ -1,0 +1,10 @@
+
+aws s3api put-bucket-versioning --bucket amzn-s3-demo-bucket1 --versioning-configuration Status=Enabled,MFADelete=Enabled --mfa "SERIAL 123456"
+
+
+aws s3api delete-object --bucket <bucket-name> --key <object-key> --mfa "arn:aws:iam::<account-id>:mfa/<mfa-device-id> <mfa-token>"
+
+
+aws s3api delete-object --bucket my-secure-bucket --key example.txt --version-id 11112222333344445555 --mfa "arn:aws:iam::123456789012:mfa/your-mfa-device 123456"
+
+			
