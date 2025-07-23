@@ -16,7 +16,7 @@ curl http://169.254.169.254/latest/meta-data/local-ipv4
 # Get Instance Public IPv4 Address
 curl http://169.254.169.254/latest/meta-data/public-ipv4
 
-# IMDBv2
+# IMDSv2
 ## Get Token
 TOKEN=$(curl -X PUT "http://169.254.169.254/latest/api/token" -H "X-aws-ec2-metadata-token-ttl-seconds: 21600")
 

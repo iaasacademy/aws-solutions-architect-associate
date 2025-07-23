@@ -1,0 +1,5 @@
+#!/bin/bash
+# Update the system
+yum update -y
+# Copy all files from the S3 bucket to the directory
+aws s3 cp s3://[SE BUCKET NAME] /var/www/html --recursive
