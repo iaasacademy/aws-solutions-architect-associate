@@ -1,0 +1,11 @@
+$Password = Read-Host -AsSecureString
+# Enter your chosen password
+New-LocalUser "User01" -Password $Password
+
+Add-LocalGroupMember -Group "Remore Desktop Users" -Member "User01"
+
+
+# Command to establish a Session Manager CLI connection to Windows Server on your local computer
+# Do this prior to using RDP client for UI access
+
+aws ssm start-session --target <instance-id> --document-name AWS-StartPortForwardingSession "LocalPortNumber=55678,portNumber=3389"
