@@ -1,0 +1,16 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Description: >
+  Basic CloudFormation template to launch a single EC2 instance
+  in the default VPC and default subnet.
+
+Resources:
+  MyEC2Instance:
+    Type: AWS::EC2::Instance
+    Properties:
+      # Use an Amazon Linux 2 AMI (update AMI ID per region!)
+      ImageId: ami-08982f1c5bf93d976
+      InstanceType: t2.micro   # Free-tier eligible
+      # By not specifying a SubnetId, EC2 will launch in the default subnet
+      Tags:
+        - Key: Name
+          Value: MyFirstCFNInstance

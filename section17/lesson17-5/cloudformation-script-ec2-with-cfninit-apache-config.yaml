@@ -1,0 +1,52 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Description: >
+  Simple CloudFormation template to launch a single EC2 instance in a public subnet
+  and install Apache with a Hello World webpage using cfn-init.
+
+Resources:
+  MyEC2Instance:
+    Type: AWS::EC2::Instance
+    Metadata:
+      # Metadata section contains instructions for cfn-init
+      AWS::CloudFormation::Init:
+        config:
+          packages:
+            # Install Apache (httpd) via yum
+            yum:
+              httpd: []
+          files:
+            # Create a simple Hello World HTML file
+            "/var/www/html/index.html":
+              content: |
+                <html>
+                  <body>
+                    <h1 style="text-align:center;">Hello World</h1>
+                  </body>
+                </html>
+              mode: "000644"   # File permissions
+              owner: root
+              group: root
+          services:
+            # Ensure Apache is started and enabled on boot
+            sysvinit:
+              httpd:
+                enabled: true
+                ensureRunning: true
+    Properties:
+      # Use Amazon Linux 2 AMI (update AMI ID per region)
+      ImageId: ami-08982f1c5bf93d976
+      InstanceType: t2.micro
+      # Launch in default public subnet by omitting SubnetId
+      UserData:
+        # UserData triggers cfn-init on first boot
+        Fn::Base64: !Sub |
+          #!/bin/bash
+          # Update packages
+          yum update -y
+          # Run cfn-init to apply metadata configuration
+          /opt/aws/bin/cfn-init -v \
+            --stack ${AWS::StackName} \
+            --resource MyEC2Instance \
+            --region ${AWS::Region}
+          # Restart httpd just in case
+          systemctl restart httpd

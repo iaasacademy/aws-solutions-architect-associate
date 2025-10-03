@@ -1,0 +1,47 @@
+
+AWSTemplateFormatVersion: "2010-09-09"
+Description: "Parent stack for Nested Stacks - VPC and EC2 Instances"
+
+Parameters:
+  VpcName:
+    Type: String
+    Default: MyNestedVPC
+  VpcCIDR:
+    Type: String
+    Default: 10.0.0.0/16
+  Subnet1CIDR:
+    Type: String
+    Default: 10.0.1.0/24
+  Subnet2CIDR:
+    Type: String
+    Default: 10.0.2.0/24
+
+  InstanceType:
+    Type: String
+    Default: t3.micro
+    AllowedValues:
+     - t3.micro
+     - t3.small
+     - t3.medium
+     - t3.large
+    Description: "Choose the instance type for your web servers."
+
+Resources:
+  VPCStack:
+    Type: AWS::CloudFormation::Stack
+    Properties:
+      TemplateURL: https://s3.amazonaws.com/mybucket/vpc.yaml
+      Parameters:
+        VpcName: !Ref VpcName
+        VpcCIDR: !Ref VpcCIDR
+        Subnet1CIDR: !Ref Subnet1CIDR
+        Subnet2CIDR: !Ref Subnet2CIDR
+
+  EC2Stack:
+    Type: AWS::CloudFormation::Stack
+    Properties:
+      TemplateURL: https://s3.amazonaws.com/mybucket/ec2.yaml
+      Parameters:
+        VpcId: !GetAtt VPCStack.Outputs.VpcId
+        PublicSubnet1: !GetAtt VPCStack.Outputs.PublicSubnet1
+        PublicSubnet2: !GetAtt VPCStack.Outputs.PublicSubnet2

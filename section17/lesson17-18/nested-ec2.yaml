@@ -1,0 +1,57 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Description: "Deploy two EC2 instances in the public subnets"
+
+Parameters:
+  VpcId:
+    Type: String
+  PublicSubnet1:
+    Type: String
+  PublicSubnet2:
+    Type: String
+  InstanceType:
+    Type: String
+    Default: t2.micro
+
+Resources:
+  InstanceSecurityGroup:
+    Type: AWS::EC2::SecurityGroup
+    Properties:
+      GroupDescription: Allow HTTP inbound traffic
+      VpcId: !Ref VpcId
+      SecurityGroupIngress:
+        - IpProtocol: tcp
+          FromPort: 80
+          ToPort: 80
+          CidrIp: 0.0.0.0/0
+
+  EC2Instance1:
+    Type: AWS::EC2::Instance
+    Properties:
+      InstanceType: !Ref InstanceType
+      ImageId: ami-052064a798f08f0d3   # Amazon Linux 2023 in us-east-1 (adjust per region)
+      SubnetId: !Ref PublicSubnet1
+      SecurityGroupIds:
+        - !Ref InstanceSecurityGroup
+      UserData:
+        Fn::Base64: !Sub |
+          #!/bin/bash
+          yum install -y httpd
+          systemctl enable httpd
+          systemctl start httpd
+          echo "Hello World from EC2 in Subnet 1" > /var/www/html/index.html
+
+  EC2Instance2:
+    Type: AWS::EC2::Instance
+    Properties:
+      InstanceType: !Ref InstanceType
+      ImageId: ami-052064a798f08f0d3
+      SubnetId: !Ref PublicSubnet2
+      SecurityGroupIds:
+        - !Ref InstanceSecurityGroup
+      UserData:
+        Fn::Base64: !Sub |
+          #!/bin/bash
+          yum install -y httpd
+          systemctl enable httpd
+          systemctl start httpd
+          echo "Hello World from EC2 in Subnet 2" > /var/www/html/index.html
