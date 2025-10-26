@@ -33,7 +33,7 @@ cat <<EOF > /var/www/html/index.html
 <p></p>
 <h2>This are your EC2 Instance Details:</h2>
 <p><strong>Hostname:</strong> $HOSTNAME</p>
-<p><strong>Availability Zone:</strong> $AVAILABILITY_ZONE
+<p><strong>Availability Zone:</strong> $AVAILABILITY_ZONE</p>
 <p><strong>Public IP:</strong> ${PUBLIC_IP:-N/A}</p>
 <p><strong>AMI ID:</strong> $AMI_ID</p>
 <p><strong>Instance Type:</strong> $INSTANCE_TYPE</p>
