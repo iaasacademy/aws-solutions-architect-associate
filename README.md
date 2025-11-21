@@ -4,7 +4,8 @@
 ![Blended Learning](https://img.shields.io/badge/Blended%20Learning-Self%20Paced%20+%20Live%20Q%26A-orange)
 ![Live Sessions](https://img.shields.io/badge/Live%20Q%26A-Weeks%205%20%26%2011-yellow)
 ![Exam Ready](https://img.shields.io/badge/Updated%20For-SAA--C03-success)
-![Enroll Now](https://img.shields.io/badge/Enroll-Click%20Here-brightgreen)
+[![Enroll Now](https://img.shields.io/badge/Enroll-Click%20Here-brightgreen)](https://iaasacademy.com/p/aws-certified-solutions-architect-associate-saa-c03)
+
 
 **A Blended Learning Program: Self-Paced + 2 Live Q&A Sessions (Week 5 & Week 11)**  
 ### *Learn AWS the right way — not just another Udemy-style video course.*
@@ -81,9 +82,9 @@ This is the closest thing to a premium classroom experience — but online and f
 
 You’ll complete **three real-world capstone projects** including:
 
-- A secure multi-tier VPC architecture  
-- A serverless real-time event-driven application  
-- A scalable workload with load balancing & auto scaling  
+- A secure three-tier architecture with load balancing and auto scaling  
+- A containerized application solutions with Amazon ECS, ECR and Docker  
+- A scalable serverless architecture with Amazon S3, CloudFront, API Gateway, Lambda and more... 
 
 Each project builds your practical experience and strengthens your portfolio.
 
