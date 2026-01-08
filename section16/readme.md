@@ -5,7 +5,7 @@ The application allows customers to **submit and share their favourite snack or 
 
 ---
 
-## ☕ Project Overview
+## Project Overview
 
 The **Ritual Roast Recipe Contest App** enables customers to participate in an online competition by posting their favourite coffee-inspired drinks or snack recipes.
 
@@ -22,7 +22,7 @@ The application uses **Amazon S3 and Amazon CloudFront** to deliver a fast, secu
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 The application follows this high-level flow:
 
@@ -35,7 +35,7 @@ The application follows this high-level flow:
 
 ---
 
-## 🧰 AWS Services Used
+## AWS Services Used
 
 * **Amazon S3** – Hosts the static web application
 * **Amazon CloudFront** – Global content delivery with low latency and HTTPS
@@ -47,7 +47,7 @@ The application follows this high-level flow:
 
 ---
 
-## 🔐 Security Considerations
+## Security Considerations
 
 * CloudFront provides HTTPS and edge-level security
 * Least-privilege IAM roles for Lambda functions
@@ -57,7 +57,7 @@ The application follows this high-level flow:
 
 ---
 
-## 📈 Benefits of This Architecture
+## Benefits of This Architecture
 
 * **Serverless and fully managed**
 * **Fast global content delivery via CloudFront**
@@ -68,7 +68,7 @@ The application follows this high-level flow:
 
 ---
 
-## 🧪 Testing & Monitoring
+## Testing & Monitoring
 
 * Validate API endpoints using Postman or curl
 * Test frontend functionality via CloudFront distribution URL
@@ -76,7 +76,7 @@ The application follows this high-level flow:
 
 ---
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 
 By working with this project, you will learn:
 
@@ -87,19 +87,12 @@ By working with this project, you will learn:
 * How monitoring and observability work in serverless architectures
 
 ---
+## Author
 
-## 📝 Notes
-
-This project is intended for **educational and demonstration purposes**, inspired by a real-world coffee shop use case, and aligns with AWS Well-Architected Framework principles.
-
----
-
-## 📌 Author
-
-Created as part of the **Ritual Roast serverless application learning project**.
+Created by Rajesh Daswani as part of the **Ritual Roast serverless application learning project**.
 
 ---
 
-## 📜 License
+## License
 
 This project is provided for educational use.
